@@ -73,11 +73,9 @@ Employee-Report-Automation/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Employee-Report-Automation.git
-```
+git clone https://github.com/sivaramakrishnabevara/MySQL_Email_Project.git
 
-```bash
-cd Employee-Report-Automation
+cd MySQL_Email_Project
 ```
 
 ---
